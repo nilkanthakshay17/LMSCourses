@@ -9,5 +9,4 @@ class LmCoursesApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
